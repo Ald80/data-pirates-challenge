@@ -2,11 +2,11 @@
 
 ## Requerimentos:
 
-* **[python]**(https://www.python.org/)
-* **selenium**
-* **beautifulsoup4**
-* **requests**
-* **python-dotenv**
+* [Python](https://www.python.org/)
+* [Selenium](https://www.selenium.dev/documentation/en/)
+* [Beautifulsoup4](https://www.selenium.dev/documentation/en/)
+* [Requests](https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html)
+* [python-dotenv](https://pypi.org/project/python-dotenv/)
 
 ## Instalação de ambiente:
 
@@ -16,7 +16,7 @@ Para instalar as bibliotecas do projeto basta executar o comando `pip install -r
 
 Caso não tenha o navegador Chrome instalado, segue o [link](https://www.google.com/intl/pt-BR/chrome/) para fazer o download.
 
-Para que o **selenium** consiga fazer uso do navegador, é necessário baixar o driver do navegador, através do [link](https://chromedriver.storage.googleapis.com/index.html) é possível baixar o driver de várias versões do Chrome, faça o download conforme a versão do Chrome instalado no seu computador.
+Para que o `Selenium` consiga fazer uso do navegador, é necessário baixar o driver do navegador, através do [link](https://chromedriver.storage.googleapis.com/index.html) é possível baixar o driver de várias versões do Chrome, faça o download conforme a versão do Chrome instalado no seu computador.
 
 Depois de ter feito o download do driver, insira o caminho o qual foi extraído o driver no valor da variável `executable_path` do arquivo `config.env`
 
