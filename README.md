@@ -2,7 +2,7 @@
 
 ## Requerimentos:
 
-* **python**
+* **[python]**(https://www.python.org/)
 * **selenium**
 * **beautifulsoup4**
 * **requests**
