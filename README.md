@@ -10,7 +10,7 @@
 
 ## Instalação de ambiente:
 
-È recomendado instalar as bibliotecas do projeto através da criação de uma virtual environment, acesse [link](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment) com as instruções de como criar um ambiente virtual. 
+È recomendado instalar as bibliotecas do projeto através da criação de uma virtual environment, acesse o [link](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment) com as instruções de como criar um ambiente virtual. 
 
 Para instalar as bibliotecas do projeto basta executar o comando `pip install -r requirements.txt`
 
